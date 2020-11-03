@@ -1,1 +1,0 @@
-This directory contains the general information about the box. You can find the initial design of the box, along with the context and theory of how the box has been made. We also added information about the cost of the box components and the building progress. We hope this gives more insight in the entire process.
